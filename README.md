@@ -1,20 +1,21 @@
-# 🚀 75 Days to US Remote AWS Security Role
-**IIT Patna - BS in Artificial Intelligence**
+🚀 75 Days to US Remote AWS Security Role
 
-### 🎯 Goal: Land a $80k+ US Remote Security Role
+IIT Patna - BS in Artificial Intelligence
+🎯 Goal: Land a $80k+ US Remote Security Role
 
-**My Stack:**
+My Stack:
 - AWS Cloud Security (IAM, S3, VPC)
 - Ethical Hacking (TryHackMe)
 - 75 Days Challenge
 
-### 📅 Daily Progress Log
-- [ ] Day 1: AWS IAM - Created first secure user
-- [ ] Day 2: S3 Bucket Security
-- [ ] Day 3: TryHackMe Pre-Security Path
-... will update daily
+🗓️ Daily Progress Log
 
-### 🔗 Connect with me on LinkedIn
+✅ Day 1 (16-18 Sept): CIA Triad, Risk, Governance
+- Lab: TryHackMe Pre-Security [NEOPHYTE] - Top 95% - DONE
+- Notes: 1 Page Terms - DONE
+- Setup: AWS Educate $100 Credit - Approved
 
----
-Started: 15 Sept 2026
+⬜ Day 2 (19-21 Sept): BCP, DRP, Incident Response
+⬜ Day 3 (22-24 Sept): Access Control & IAM (IAM User + ReadOnly)
+
+🔗 Connect with me on LinkedIn
