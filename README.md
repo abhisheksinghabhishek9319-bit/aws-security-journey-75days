@@ -20,4 +20,11 @@ My Stack:
 - Lab: TryHackMe Intro to LAN [Subnetting, Topologies] - DONE
 - Key Learnings: CNAME=shops.myshopify.com, TXT Flag, MX=30, A=10.10.10.10, Subnet=32 bits
 - Streak: 2 Days 🔥
+
+✅ Day 3 (19 Sept): Governance & MATA - DONE
+- Lab: Policy vs Standard vs Procedure
+- Lab: Risk = Threat + Vuln, MATA Framework
+- Notes: 2 Pages - DONE
+- Streak: 3 Days 🔥
 🔗 Connect with me on LinkedIn
+  
