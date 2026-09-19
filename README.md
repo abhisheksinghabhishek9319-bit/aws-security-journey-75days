@@ -26,5 +26,13 @@ My Stack:
 - Lab: Risk = Threat + Vuln, MATA Framework
 - Notes: 2 Pages - DONE
 - Streak: 3 Days 🔥
+
+✅ Day 4 (20 Sept): Incident Response Process - DONE
+- Lab: TryHackMe Incident Response Process [6 Tasks, 72 Points] - DONE
+- Miner: 32th4ckm3.exe, C2: 45.33.32.156:42424
+- Key Learnings: certutil LOLBIN abuse, invoice n. 65748224.docm macro, Registry Persistence DefaultApp, MITRE ATT&CK
+- Path: C:\Users\TryCleanUser\AppData\Local\Temp\2
+- Notes: 3 Pages + Screenshots - DONE
+- Streak: 4 Days 🔥
 🔗 Connect with me on LinkedIn
   
