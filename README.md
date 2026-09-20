@@ -34,5 +34,14 @@ My Stack:
 - Path: C:\Users\TryCleanUser\AppData\Local\Temp\2
 - Notes: 3 Pages + Screenshots - DONE
 - Streak: 4 Days 🔥
+
+✅ Day 5 (21 Sept): RBAC & IAM - Least Privilege - DONE
+• Lab: Windows Local RBAC Simulation (AWS IAM ReadOnly vs Admin) - DONE
+• Concept: Implemented Role-Based Access Control without AWS card
+• Setup: Created day5-readonly local user, restricted SecureData folder
+• Proof: Got "You don't have permission to access this folder" - Least Privilege Verified
+• Key Learnings: IAM Policy = Identity + Permissions, ReadOnly can view but not write, Admin has full control, Principle of Least Privilege
+• Screenshots: 2 Proofs Added - DONE
+• Streak: 5 Days 🔥
+
 🔗 Connect with me on LinkedIn
-  
