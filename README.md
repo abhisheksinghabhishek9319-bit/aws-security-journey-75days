@@ -44,4 +44,12 @@ My Stack:
 • Screenshots: 2 Proofs Added - DONE
 • Streak: 5 Days 🔥
 
+✅ Day 6 (22 Sept): S3 Security Misconfig & CloudX V15 ELITE - DONE
+  • Lab: AWS S3 Bucket Misconfiguration - Public Read/Write, Takeover
+  • Tool Built: CloudX V15 ELITE - 1% Hunter Tool - 22 Takeover Fingerprints, Writable S3 Check
+  • Code: Python + requests + ThreadPoolExecutor - Scope validation (No Ban Risk)
+  • Key Learnings: S3 NoSuchBucket = Takeover, Shopify Fingerprint = $$$ , CVSS/CWE based reporting = Triager impress
+  • Program Hunt: Shortlisted Shopify & Verizon Media for V15 - High Payout $1000-$2500
+  • Streak: 6 Days 🔥
+
 🔗 Connect with me on LinkedIn
