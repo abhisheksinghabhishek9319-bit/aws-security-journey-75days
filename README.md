@@ -52,7 +52,7 @@ My Stack:
   • Program Hunt: Shortlisted Shopify & Verizon Media for V15 - High Payout $1000-$2500
   • Streak: 6 Days 🔥
 
-✅ Day 7 (22 Sept): CORS Hunting (NBA) - DONE
+✅ Day 7 (23 Sept): CORS Hunting (NBA) - DONE
 - Lab: watch-ng.nba.com CORS Analysis - 3 Findings
 - Tool: Fixed V18 - Akamai WAF Bypass + FP Filter
 - Key: ACAC true + PII = $500, Else Informative
