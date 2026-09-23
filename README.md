@@ -57,4 +57,13 @@ My Stack:
 - Tool: Fixed V18 - Akamai WAF Bypass + FP Filter
 - Key: ACAC true + PII = $500, Else Informative
 - Streak: 7 Days 🔥
+
+✅ Day 8 (24 Sept): IDOR Hunting & V20 Endpoint Hunter - DONE
+ • Lab: Shopify In-Scope - 2 Test Accounts Created (Attacker + Victim)
+ • Tool: Built V20 - Endpoint Hunter (10 hidden APIs), WAF Filter, FP Filter - No Ban Risk
+ • Target: accounts.shopify.com, admin.shopify.com - Root SAFE, /api/users/me & /api/storefront tested
+ • Key Learnings: CORS at root != bug, bug lives in /api/*. Real bug = ACAO: evil.com + ACAC: true + PII leak. IDOR = Change user_id=123 to 124 with victim's cookie.
+ • Notes: 2 Pages + Screenshots - DONE
+ • Streak: 8 Days 🔥
+
 🔗 Connect with me on LinkedIn
