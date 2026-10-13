@@ -89,9 +89,7 @@ My Stack:
 
 **Tech Stack:** `Python` `Flask` `WebSockets` `Three.js` `WiFi CSI/RSSI` `Linux Networking`
 
-**Repo:** Pushed as standalone repo: `ANO-ACTI-4G-WiFi-Human-Detection-360` | Includes `server.py`, `Live_r
-**Repo:** [ANO-ACTI-WiFi-Human-Detection-360](https://github.com/abhisheksinghabhishek9319-bit/ANO-ACTI-WiFi-Human-Detection-360) - Standalone Project | Live Status: WORKING 100% | Includes `server.py`, `Live_room.html`, `demo.mp4` 
-**Impact for AWS Journey:**
+**Repo:** [ANO-ACTI-WiFi-Human-Detection-360](https://github.com/abhisheksinghabhishek9319-bit/ANO-ACTI-WiFi-Human-Detection-360) - Standalone Project | Live Status: WORKING 100% | Includes `server.py`, `Live_room.html`, `demo.mp4`
 
 This project directly maps to Phase 2 (SAA) - `AWS IoT Core + Kinesis Data Streams for Real-time Telemetry + QuickSight Visualization`
 
