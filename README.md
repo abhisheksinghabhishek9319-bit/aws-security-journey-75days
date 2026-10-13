@@ -65,5 +65,36 @@ My Stack:
  • Key Learnings: CORS at root != bug, bug lives in /api/*. Real bug = ACAO: evil.com + ACAC: true + PII leak. IDOR = Change user_id=123 to 124 with victim's cookie.
  • Notes: 2 Pages + Screenshots - DONE
  • Streak: 8 Days 🔥
+ ---
+### ⏸️ GAP PERIOD: 25 Sept - 12 Oct 2026 | REASON DOCUMENTED
 
+> **Why Gap?** (ISC)2 CC exam model changed from 100% FREE to $199 (~₹16,500) + College Semester Exams.
+> **What I Did?** Did NOT stop learning. Shifted to Offline Building - IoT + Security Visualization.
+
+---
+✅ DAY 9: 13 OCT 2026 - OFFICIAL COMEBACK
+#### 🚀 PROJECT: ANO-ACTI 4G 360 JARVIS - WiFi to 3D Human Detection System
+
+**Tagline:** Detect Humans Using Only WiFi Signals - No Camera, No Sensor, Only RSSI Variance
+
+**Live Status:** `WORKING 100%` | `2 TARGETS LOCKED` | `360° ROTATABLE` | `NO CRASH`
+
+**Architecture:**
+
+**Key Features (Video Proof Available):**
+1.  **Dual Server Engine:** Single `server.py` runs Flask (5000) for UI + WebSockets (8765) for live data. Fixed previous `wlan0` crash issue.
+2.  **3D Visualization:** Orange/Red 3D blocks rise based on human variance (6-9 = Human Moving, 1-3 = No Movement). Full mouse 360° control.
+3.  **Real-Time Graph:** Bottom Cyan graph shows live RSSI wave (-27 to -36 dBm).
+4.  **Passive Detection:** No camera needed - Core concept for AWS IoT + Security.
+
+**Tech Stack:** `Python` `Flask` `WebSockets` `Three.js` `WiFi CSI/RSSI` `Linux Networking`
+
+**Repo:** Pushed as standalone repo: `ANO-ACTI-4G-WiFi-Human-Detection-360` | Includes `server.py`, `Live_room.html`, `demo.mp4`
+
+**Impact for AWS Journey:**
+This project directly maps to Phase 2 (SAA) - `AWS IoT Core + Kinesis Data Streams for Real-time Telemetry + QuickSight Visualization`
+
+**Commitment:** Gap is over. Day 10 (14 Oct 2026) onwards - SAA Associate - IAM, S3, VPC Labs Resume with full speed.
+
+**Proof:** Video demo attached in new repo. Stable, No Freeze, Smooth 360.
 🔗 Connect with me on LinkedIn
