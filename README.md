@@ -44,6 +44,7 @@ My Stack:
 • Screenshots: 2 Proofs Added - DONE
 • Streak: 5 Days 🔥
 
+
 ✅ Day 6 (22 Sept): S3 Security Misconfig & CloudX V15 ELITE - DONE
   • Lab: AWS S3 Bucket Misconfiguration - Public Read/Write, Takeover
   • Tool Built: CloudX V15 ELITE - 1% Hunter Tool - 22 Takeover Fingerprints, Writable S3 Check
@@ -96,4 +97,22 @@ This project directly maps to Phase 2 (SAA) - `AWS IoT Core + Kinesis Data Strea
 **Commitment:** Gap is over. Day 10 (14 Oct 2026) onwards - SAA Associate - IAM, S3, VPC Labs Resume with full speed.
 
 **Proof:** Video demo attached in new repo. Stable, No Freeze, Smooth 360.
+
+✅ Day 10 (14 Oct 2026): Introduction to AWS - CLOUD FUNDAMENTALS - DONE
+- Lab: What is Cloud? - Ek aisi Service jisse koi bhi company apna App/Website user tak pahucha sake
+- Concept: AWS kya hai? - Amazon ki Cloud ki dukan, server yaha rent pe milta hai
+- Lab: Region = Mumbai (ap-south-1) Location, AZ = Data Center ka ek Room, Pay as you go = Jitna use utna paisa dena
+- Main Services: EC2 = Computer/Server, S3 = Storage Dabba, VPC = Private Network, IAM = Chaukidar (Safety)
+- Key Learnings: Shared Responsibility -> Security OF cloud = AWS ka, Security IN cloud = Apna kaam, Free Tier yaad rakhna + bill alert jarur lagana, Edge Location = CloudFront ka ghar
+- Notes: 2 Pages + Handwritten Diagram (Cloud Icon, Server, Storage) - DONE 🔥
+
+✅ Day 11 (15 Oct 2026): IAM - Identity and Access Management - DONE
+- Lab: IAM kya hai? -> AWS ka Chaukidar, Kaun kya karega decide karta hai
+- Concept: Root User = Malik, sab kuch kar sakta hai, daily use nahi karna chahiye, MFA lagana Compulsory
+- Concept: IAM User = Employee, naam se Login kar sakte hain, IAM Group = Team, ek saath permission, IAM Role = Bina password ke EC2 ko S3 ka Access dene ke liye, Temporary pass, sabse Secure
+- Lab: Policy = Rulebook, JSON me, Allow/Deny likha hota hai, Types: AWS Managed, Customer Managed, Inline
+- Best Practices: Root ko lock karke rakhna, Least Privilege -> Kam se kam permission dena, MFA ON karke rakhna, Access key ko rotate karna, Password ko strong rakhna
+- Key Learnings: Note -> IAM Global hai, region specific nahi hai, Golden Rule -> Role > Access keys
+- Notes: 2 Pages + Handwritten IAM Diagram (Root, User, Group, Role, Policy) - DONE
+- Proof: Handwritten Notes Photo Added -  🔥
 🔗 Connect with me on LinkedIn
