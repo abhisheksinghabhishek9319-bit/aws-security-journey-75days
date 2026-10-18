@@ -64,8 +64,7 @@ My Stack:
  • Tool: Built V20 - Endpoint Hunter (10 hidden APIs), WAF Filter, FP Filter - No Ban Risk
  • Target: accounts.shopify.com, admin.shopify.com - Root SAFE, /api/users/me & /api/storefront tested
  • Key Learnings: CORS at root != bug, bug lives in /api/*. Real bug = ACAO: evil.com + ACAC: true + PII leak. IDOR = Change user_id=123 to 124 with victim's cookie.
- • Notes: 2 Pages + Screenshots - DONE
- • Streak: 8 Days 🔥
+ • Notes: 2 Pages + Screenshots - DONE 🔥
  ---
 ### ⏸️ GAP PERIOD: 25 Sept - 12 Oct 2026 | REASON DOCUMENTED
 
@@ -116,7 +115,7 @@ This project directly maps to Phase 2 (SAA) - `AWS IoT Core + Kinesis Data Strea
 - Notes: 2 Pages + Handwritten IAM Diagram (Root, User, Group, Role, Policy) - DONE
 - Proof: Handwritten Notes Photo Added -  🔥
 
-- ✅ Day 12 (16 Oct 2026): IAM Hands-On - User & Group - DONE
+✅ Day 12 (16 Oct 2026): IAM Hands-On - User & Group - DONE
 * Lab: IAM User `abhishek-dev` + Group `DevTeam` banaya
 * Lab: Group me `AmazonS3ReadOnlyAccess` Policy attach kiya - Least Privilege
 * Concept: IAM Global service hai, Group se bulk permission milta hai
