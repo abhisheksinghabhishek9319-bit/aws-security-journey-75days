@@ -115,4 +115,24 @@ This project directly maps to Phase 2 (SAA) - `AWS IoT Core + Kinesis Data Strea
 - Key Learnings: Note -> IAM Global hai, region specific nahi hai, Golden Rule -> Role > Access keys
 - Notes: 2 Pages + Handwritten IAM Diagram (Root, User, Group, Role, Policy) - DONE
 - Proof: Handwritten Notes Photo Added -  🔥
+
+- ✅ Day 12 (16 Oct 2026): IAM Hands-On - User & Group - DONE
+* Lab: IAM User `abhishek-dev` + Group `DevTeam` banaya
+* Lab: Group me `AmazonS3ReadOnlyAccess` Policy attach kiya - Least Privilege
+* Concept: IAM Global service hai, Group se bulk permission milta hai
+* Notes: 1 Page + Screenshot (Set permissions) - DONE 🔥
+
+✅ Day 13 (17 Oct 2026): IAM Security Hardening - MFA & Credits - DONE
+* Lab: Root User `IITP-Abhi` pe MFA Enable kiya - Authenticator App
+* Lab: Credits Check kiya - $120 for 182 Days Unlocked ($100 + $20 Bonus)
+* Concept: IAM is 100% FREE, Paise sirf EC2/S3/NAT Gateway pe kat-te hain
+* Proof: Security credentials page - MFA (1) Active - DONE 🔥
+
+✅ Day 14 (18 Oct 2026): S3 Static Hosting - Yashdeep Hospital - DONE
+* Lab: S3 Bucket banaya + Static Website Hosting ON kiya
+* Project: `index.html` (Yashdeep Hospital) S3 pe host kiya
+* Header: Emergency 24x7, Basti UP | Buttons: Dashboard, Book, My Appointments
+* Fix: Pehle `client/` folder me tha, fir root `-` pe daala to S3 ne pick kiya
+* Design: Blue-white theme, Advanced Healthcare with Compassion - 100x better
+* Proof: Live Link + Screenshot Added - DONE 🔥
 🔗 Connect with me on LinkedIn
